@@ -11,3 +11,5 @@
 本地预览：`python3 -m http.server 8080`。
 
 论文链接来自 arXiv；教育与履历来自本人简历。
+
+Favicon image: [SpongeBob laughing face, CityPNG](https://www.citypng.com/photo/8925/hd-spongebob-square-face-laughing-cartoon-character-png). Displayed through an SVG viewport.
