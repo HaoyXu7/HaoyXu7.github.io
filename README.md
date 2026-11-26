@@ -2,7 +2,7 @@
 
 武汉大学计算机学院个人学术主页。
 
-纯静态 HTML/CSS，无需构建。编辑 `index.html` 修改内容，编辑 `style.css` 修改样式，`assets/` 包含照片、简历及论文首页缩略图。
+纯静态 HTML/CSS，无需构建。编辑 `index.html` 修改内容，编辑 `style.css` 修改样式，`assets/` 包含照片及论文首页缩略图。
 
 ## GitHub Pages
 
